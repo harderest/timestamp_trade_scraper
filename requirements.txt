@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+tqdm
+diskcache
+cachetools
+joblib
+shelved-cache
+tenacity
+ipywidgets
